@@ -1,0 +1,2 @@
+# soplist
+Categorized sopcast links.
